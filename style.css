@@ -1,0 +1,55 @@
+.heading {
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note {
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background-size: cover;
+}
+
+.div_speed {
+    float: left;
+
+}
+
+.gifSpeed {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#btn_speed {
+    font-size: 20px;
+    margin: 15px;
+}
+
+.div_vol {
+    float: right;
+}
+
+.gifVol {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#btn_vol {
+    font-size: 20px;
+    margin: 15px;
+}
+
+.btn_play, .btn_stop {
+    width: 100px;
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+canvas {
+    border: 10px solid rgb(187, 102, 187);
+    border-radius: 20px;
+    margin-top: 30px;
+}
